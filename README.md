@@ -352,6 +352,6 @@ ai-onboarding-engine/
 
 ## 👥 Team
 
-Built for **ARTPARK CodeForge Hackathon 2025**
+Built for **ARTPARK CodeForge Hackathon 2026**
 
 > *"Don't just onboard people. Onboard them intelligently."*
