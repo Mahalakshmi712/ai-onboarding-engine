@@ -15,7 +15,7 @@ function Navbar() {
           <span className="logo-badge">Beta</span>
         </div>
         <div className="navbar-links">
-          <span className="nav-link">Powered by Claude + Skill Graph</span>
+          <span className="nav-link"> Built for ARTPARK CodeForge 2026 ⚡ </span>
         </div>
       </div>
     </nav>
@@ -26,7 +26,7 @@ function Footer() {
   return (
     <footer className="footer">
       <p>
-        Built with ❤️ · Claude AI · NetworkX Skill Graph ·
+        Built with ❤️ · NetworkX Skill Graph ·
         Gap-Scoring Traversal Algorithm
       </p>
     </footer>
