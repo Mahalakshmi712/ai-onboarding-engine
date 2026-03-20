@@ -1,0 +1,37 @@
+JOB TITLE: Machine Learning Engineer
+COMPANY: DataVision AI
+LOCATION: Bangalore, India (Hybrid)
+
+ABOUT THE ROLE
+We are looking for a Machine Learning Engineer to join our growing AI team. 
+You will design, build, and deploy machine learning models that power our 
+core product recommendations and data intelligence features.
+
+RESPONSIBILITIES
+- Design and implement machine learning models for production use
+- Build and maintain scalable data pipelines using Python
+- Deploy models using containerized environments (Docker)
+- Collaborate with the data science team on model evaluation and iteration
+- Write clean, well-documented code and maintain version control
+- Work with cloud infrastructure for model training and serving
+- Participate in code reviews and agile ceremonies
+
+REQUIRED QUALIFICATIONS
+- Strong proficiency in Python (intermediate to advanced level)
+- Solid understanding of machine learning fundamentals
+- Experience with data analysis using Pandas and NumPy
+- Proficiency with Git version control
+- Understanding of REST APIs and system integration
+- Familiarity with SQL for data querying
+
+PREFERRED QUALIFICATIONS
+- Experience with Docker and containerization
+- Knowledge of cloud platforms (AWS, GCP, or Azure)
+- Familiarity with deep learning frameworks
+- Experience with LLMs or generative AI tools
+
+WHAT WE OFFER
+- Competitive salary and equity
+- Flexible hybrid work environment
+- Learning & development budget
+- Work on cutting-edge AI products

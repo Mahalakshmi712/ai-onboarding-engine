@@ -1,0 +1,32 @@
+JOHN SMITH
+Software Developer | john.smith@email.com | LinkedIn: /in/johnsmith
+
+SUMMARY
+Mid-level software developer with 3 years of experience building web applications 
+and data pipelines. Comfortable working in agile teams.
+
+WORK EXPERIENCE
+
+Software Developer — TechCorp Pvt Ltd (2021–2024)
+- Built and maintained Python-based backend services for internal tools
+- Wrote SQL queries for reporting dashboards and data extraction
+- Used Git and GitHub daily for version control and code reviews
+- Collaborated with cross-functional teams using Agile/Scrum methodology
+- Participated in daily standups and sprint planning sessions
+
+Junior Developer — StartupXYZ (2020–2021)
+- Developed Python scripts to automate data processing tasks
+- Created basic REST API integrations with third-party services
+- Wrote documentation for internal developer tools
+
+EDUCATION
+B.Tech in Computer Science — VTU, Bangalore (2020)
+
+SKILLS
+- Programming: Python (intermediate), SQL (basic-intermediate)
+- Tools: Git, GitHub, VS Code, Postman
+- Methodologies: Agile, Scrum
+- Soft Skills: Team communication, documentation, problem-solving
+
+CERTIFICATIONS
+- Python for Everybody — Coursera (2021)
